@@ -3,6 +3,7 @@
 
 - 🚓 I'm currently contributing to [FivePD 2.0](https://fivepd.com/)
 - 🔭 I’m currently contributing to [Flowbite-Angular](https://github.com/themesberg/flowbite-angular)
+- 🌱 I’m currently learning **NgRx SignalStore & ngx-vest-forms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
